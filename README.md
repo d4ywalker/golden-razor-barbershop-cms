@@ -7,11 +7,26 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=L3ChGszs65Y)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/d4ywalker)
 
 Golden Razor Barbershop is a full-stack, enterprise-ready Appointment Booking, E-Commerce, and Business Management Web System developed for luxury barbershops, salons, and grooming lounges.
 
 Featuring real-time slot booking, automated Stripe payment processing, instant WhatsApp booking notifications, a product merchandise store, and a comprehensive administration analytics dashboard.
+
+---
+
+## Live Video Demo & Walkthrough
+
+<div align="center">
+
+[![Watch Golden Razor Barbershop Video Preview](https://img.youtube.com/vi/L3ChGszs65Y/hqdefault.jpg)](https://www.youtube.com/watch?v=L3ChGszs65Y)
+
+<br/>
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch_Barbershop_Demo_on_YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=L3ChGszs65Y)
+
+</div>
 
 ---
 
@@ -99,5 +114,6 @@ Developed by [Nex2killer (d4ywalker)](https://github.com/d4ywalker)
 - Discord: ahmad.bai
 - Facebook: https://www.facebook.com/near.ahmad
 - Instagram: https://instagram.com/ahmadbaihaqi27
+- YouTube: https://www.youtube.com/watch?v=L3ChGszs65Y
 - PayPal: vishaka.ahmad@gmail.com
 - USDT (TRC-20): TY4KH1tfqfPTd3vQ2Vw4EzeEuKEmdsyyjL
